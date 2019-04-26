@@ -1,0 +1,18 @@
+{
+  "name": "umi-plugin-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "umi-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.15.0",
+    "test-umi-plugin": "^0.1.0",
+    "umi": "^2.6.16",
+    "umi-test": "^1.5.6"
+  }
+}

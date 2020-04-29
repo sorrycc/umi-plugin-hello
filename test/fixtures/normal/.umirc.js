@@ -1,4 +1,4 @@
 
 export default {
-  plugins: ['../../../index']
+  plugins: [require.resolve('../../../lib')]
 }

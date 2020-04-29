@@ -2,5 +2,6 @@
 
 umi plugin for tutorial.
 
+## LICENSE
 
-
+MIT
